@@ -18,4 +18,4 @@ jQuery Waypoint
 Magnific Popup
 
 
-Made this magic in a day.
+Made this magic with some fun jQuery libraries. 
