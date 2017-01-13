@@ -7,8 +7,8 @@ CREDITS:
 
 Bootstrap
 jQuery
-jQuery Easing
 Modernizr
+jQuery Easing
 Google Fonts
 Icomoon Entypo
 Respond JS
